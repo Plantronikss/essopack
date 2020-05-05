@@ -1,0 +1,13 @@
+@media screen and (max-width: 1400px){
+    ul.menu li a {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 13px;
+  display: block;
+  height: 20px;
+  padding: 6px 15px 5px 15px;
+  color: black;
+  text-transform: uppercase;
+    }}
